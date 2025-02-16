@@ -1,9 +1,9 @@
 import React from 'react';
 
 // Example import paths (adjust these to match your actual folder structure)
-import ImgInstagram from "./imgs/MM X INSTAGRAM.png";
-import ImgMagicEden from "./imgs/MM X ME.png";
-import ImgTwitter from "./imgs/MM X TWITTER.png";
+import ImgInstagram from "../imgs/MM X INSTAGRAM.png";
+import ImgMagicEden from "../imgs/MM X ME.png";
+import ImgTwitter from "../imgs/MM X TWITTER.png";
 
 
 // For cards without an image, you can use a placeholder or omit the imgSrc field
